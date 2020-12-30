@@ -41,6 +41,7 @@ A collection of awesome software and cool stuff for sysadmins.
 * [ngrok](https://ngrok.com) - Expose a local web server to the internet
 * [OpenVPN install](https://github.com/angristan/openvpn-install) - OpenVPN installer for Debian, Ubuntu, Fedora, CentOS and Arch Linux.
 * [dockvpn](https://github.com/umputun/dockvpn) - OpenVPN for Docker
+* [docker-openvpn](https://github.com/kylemanna/docker-openvpn) - OpenVPN for Docker
 
 ### Other CLI tools
 
@@ -82,6 +83,7 @@ kube-monkey is an implementation of Netflix's Chaos Monkey for Kubernetes cluste
 * [kustomize](https://kustomize.io) - Kubernetes native 
 configuration management
 * [traefik](https://doc.traefik.io/traefik/) - Traefik is an open-source Edge Router that makes publishing your services a fun and easy experience
+* [ingress-nginx](https://github.com/kubernetes/ingress-nginx) Ingress-NGINX is an Ingress controller for Kubernetes using NGINX as a reverse proxy and load balancer
 
 ## Infrastructure
 
