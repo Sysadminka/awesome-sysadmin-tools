@@ -32,6 +32,7 @@ A collection of awesome software and cool stuff for sysadmins.
 ### Git
 
 * [lazygit](https://github.com/jesseduffield/lazygit) - A simple terminal UI for git commands
+* [pre-commit](https://pre-commit.com) - A framework for managing and maintaining multi-language pre-commit hooks
 
 ### Monitoring
 
