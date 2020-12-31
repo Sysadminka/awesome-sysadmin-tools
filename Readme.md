@@ -35,6 +35,7 @@ A collection of awesome software and cool stuff for sysadmins.
 ### Monitoring
 
 * [htop](https://htop.dev) - An interactive process viewer
+* [blktop](https://github.com/amarao/blktop) - top-like monitoring block devices metrics (latency, IOPS and so on)
 
 ### Networking
 
@@ -102,6 +103,7 @@ configuration management
 * [tflint](https://github.com/terraform-linters/tflint) - TFLint is a Terraform linter focused on possible errors, best practices, etc
 * [tfswitch](https://github.com/warrensbox/terraform-switcher) - The tfswitch command line tool lets you switch between different versions of terraform
 * [terraform-docs](https://github.com/terraform-docs/terraform-docs) - A utility to generate documentation from Terraform modules in various output formats
+* [checkov](https://github.com/bridgecrewio/checkov) - Checkov is a static code analysis tool for infrastructure-as-code
 
 ### Diagrams
 
