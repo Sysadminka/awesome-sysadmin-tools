@@ -21,6 +21,7 @@ A collection of awesome software and cool stuff for sysadmins.
   * [Diagrams](#diagrams)
 * [Security](#security)
   * [2FA](#2fa)
+  * [Passwords storage](#passwords-storage)
 
 ## CLI tools
 
@@ -114,3 +115,10 @@ configuration management
 ### 2FA
 
 * [Authy](https://authy.com) - Best Rated 2FA App
+
+### Passwords storage
+
+* [1Password](https://1password.com) - 1Password is the easiest way to store and use strong passwords
+* [KeepassXC](https://keepassxc.org) - Cross-Platform Password Manager
+* [awscreds](https://github.com/DmitriyLyalyuev/awscreds) - Store AWS credentials inside your Keychain
+* [LastPass](https://www.lastpass.com) - Auto-pilot for all your passwords
