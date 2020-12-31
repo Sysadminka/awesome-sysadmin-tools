@@ -92,6 +92,7 @@ configuration management
 ### Amazon Web Services
 
 * [chamber](https://github.com/segmentio/chamber) - Chamber is a tool for managing secrets. Currently it does so by storing secrets in SSM Parameter Store, an AWS service for storing secrets.
+* [awscreds](https://github.com/DmitriyLyalyuev/awscreds) - Store AWS credentials inside your Keychain
 
 ### Ansible
 
@@ -121,4 +122,3 @@ configuration management
 * [1Password](https://1password.com) - 1Password is the easiest way to store and use strong passwords
 * [KeepassXC](https://keepassxc.org) - Cross-Platform Password Manager
 * [LastPass](https://www.lastpass.com) - Auto-pilot for all your passwords
-* [awscreds](https://github.com/DmitriyLyalyuev/awscreds) - Store AWS credentials inside your Keychain
