@@ -120,5 +120,5 @@ configuration management
 
 * [1Password](https://1password.com) - 1Password is the easiest way to store and use strong passwords
 * [KeepassXC](https://keepassxc.org) - Cross-Platform Password Manager
-* [awscreds](https://github.com/DmitriyLyalyuev/awscreds) - Store AWS credentials inside your Keychain
 * [LastPass](https://www.lastpass.com) - Auto-pilot for all your passwords
+* [awscreds](https://github.com/DmitriyLyalyuev/awscreds) - Store AWS credentials inside your Keychain
