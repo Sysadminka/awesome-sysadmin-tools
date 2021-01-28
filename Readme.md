@@ -82,6 +82,7 @@ current date and time
 * [kubetail](https://github.com/johanhaleby/kubetail) - Bash script that enables you to aggregate (tail/follow) logs from multiple pods into one stream
 * [kube-monkey](https://github.com/asobti/kube-monkey) -
 kube-monkey is an implementation of Netflix's Chaos Monkey for Kubernetes clusters
+* [kubectl-reap](https://github.com/micnncim/kubectl-reap) - is a kubectl plugin that deletes unused Kubernetes resources
 * [kubecost](https://kubecost.com) - Kubecost gives you visibility into your Kubernetes resources to reduce spend and prevent resource-based outages
 * [kustomize](https://kustomize.io) - Kubernetes native 
 configuration management
