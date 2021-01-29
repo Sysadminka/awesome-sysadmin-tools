@@ -76,6 +76,7 @@ current date and time
 
 ### Kubernetes tools
 
+* [k9s](https://github.com/derailed/k9s) - provides a terminal UI to interact with your Kubernetes clusters
 * [kubectx](https://github.com/ahmetb/kubectx) - helps you switch between clusters back and forth
 * [kubens](https://github.com/ahmetb/kubectx) - helps you switch between Kubernetes namespaces smoothly
 * [kubecolor](https://github.com/dty1er/kubecolor) - Colorize your kubectl output
