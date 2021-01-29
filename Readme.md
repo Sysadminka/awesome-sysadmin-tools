@@ -48,8 +48,7 @@ A collection of awesome software and cool stuff for sysadmins.
 
 ### Other CLI tools
 
-* [libfaketime](https://github.com/wolfcw/libfaketime) - libfaketime intercepts various system calls that programs use to retrieve the
-current date and time
+* [libfaketime](https://github.com/wolfcw/libfaketime) - libfaketime intercepts various system calls that programs use to retrieve the current date and time
 
 ## Containers
 
@@ -81,12 +80,10 @@ current date and time
 * [kubens](https://github.com/ahmetb/kubectx) - helps you switch between Kubernetes namespaces smoothly
 * [kubecolor](https://github.com/dty1er/kubecolor) - Colorize your kubectl output
 * [kubetail](https://github.com/johanhaleby/kubetail) - Bash script that enables you to aggregate (tail/follow) logs from multiple pods into one stream
-* [kube-monkey](https://github.com/asobti/kube-monkey) -
-kube-monkey is an implementation of Netflix's Chaos Monkey for Kubernetes clusters
+* [kube-monkey](https://github.com/asobti/kube-monkey) - kube-monkey is an implementation of Netflix's Chaos Monkey for Kubernetes clusters
 * [kubectl-reap](https://github.com/micnncim/kubectl-reap) - is a kubectl plugin that deletes unused Kubernetes resources
 * [kubecost](https://kubecost.com) - Kubecost gives you visibility into your Kubernetes resources to reduce spend and prevent resource-based outages
-* [kustomize](https://kustomize.io) - Kubernetes native 
-configuration management
+* [kustomize](https://kustomize.io) - Kubernetes native configuration management
 * [traefik](https://doc.traefik.io/traefik/) - Traefik is an open-source Edge Router that makes publishing your services a fun and easy experience
 * [ingress-nginx](https://github.com/kubernetes/ingress-nginx) Ingress-NGINX is an Ingress controller for Kubernetes using NGINX as a reverse proxy and load balancer
 
