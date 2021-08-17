@@ -22,6 +22,7 @@ A collection of awesome software and cool stuff for sysadmins.
 - [Security](#security)
   - [2FA](#2fa)
   - [Passwords storage](#passwords-storage)
+- [Load testing tools](#load-testing-tools)
 
 ## CLI tools
 
@@ -128,3 +129,12 @@ A collection of awesome software and cool stuff for sysadmins.
 - [1Password](https://1password.com) - 1Password is the easiest way to store and use strong passwords
 - [KeepassXC](https://keepassxc.org) - Cross-Platform Password Manager
 - [LastPass](https://www.lastpass.com) - Auto-pilot for all your passwords
+
+## Load testing tools
+
+- [k6.io](https://k6.io) - Open source load testing tool and SaaS for engineering teams
+- [Gatling](https://gatling.io) - Load-Test-As-Code: the best way to load test your applications, designed for DevOps and CI/CD
+- [Yandex Tank](https://yandex.com/dev/tank/) - Yandex.Tank is a utility for load testing and performance analysis of web services and applications
+- [JMeter](https://jmeter.apache.org) - Apache JMeter may be used to test performance both on static and dynamic resources, Web dynamic applications
+- [siege](https://github.com/JoeDog/siege) - Siege is an open source regression test and benchmark utility
+- [ab](http://httpd.apache.org/docs/2.4/programs/ab.html) - ab is a tool for benchmarking your Apache Hypertext Transfer Protocol (HTTP) server
